@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale= 1.0">
+    <title>streamingmedia</title>
+</head>
+
+<body>
+    <h1>MuzakMaker</h1>
+    <h2>Smooth Jazz</h2>
+    <p>This station is dedicated to the sounds of smooth jazz. This genre of commercially oriented crossover jazz became
+        dominant in the 1980s and early 1990s.</p>
+    <ul>
+        <li>MuzakMaker</li>
+        <li>Trending Songs</li>
+        <li>Your Playlists</li>
+        <li>Curated Playlists</li>
+        <li>duke-silver.png</li>
+    </ul>
+    <section>
+        <h2>Trending Songs</h2>
+        <h3>Aloma</h3>
+        <p>Aritst Cali</p>
+        <img src="my-road-cover.png">
+    </section>
+
+    <h3>My Road</h3>
+</body>
+
+</html>
